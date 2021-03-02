@@ -1,2 +1,2 @@
 # Java-CommandPattern
-This is a Java Application to demonstrate the use of the Command Design Pattern
+This is a simple Java Application to demonstrate the use of the Command Design Pattern
